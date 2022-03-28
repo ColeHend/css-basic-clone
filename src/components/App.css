@@ -1,0 +1,7 @@
+#App-head {
+  background-color: #212529;
+  height: 8vh;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
+}
