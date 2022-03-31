@@ -3,13 +3,13 @@ import "./navbar.css";
 
 export default function NavBar(props) {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark fixed-top navbar-shrink">
+    <nav className="navbar">
       <div className="container">
-        <div className="collapse navbar-collapse">
+        <div className=" ">
           <a href="#page-top" className="navbar-brand">
             Start BootStrap
           </a>
-          <ul className="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+          <ul className="navbar-nav">
             <li className="nav-item">
               <a className="nav-link" href="#services">
                 Services

@@ -1,3 +1,37 @@
 .nav-item {
   margin: 5px;
 }
+.navbar {
+  margin: 0px;
+  padding: 0px;
+  padding-bottom: 2rem;
+}
+.container {
+  position: absolute;
+}
+.navbar ul {
+  list-style: none;
+}
+.navbar-nav {
+  float: right;
+  margin: 10px;
+  margin-right: 5vw;
+}
+.nav-item {
+  display: inline;
+  margin: 10px;
+}
+.nav-link {
+  text-decoration: none;
+  font-size: 1.3rem;
+  color: white;
+}
+.navbar-brand {
+  text-decoration: none;
+  color: gold;
+  font-size: 1.5rem;
+  padding: 15px;
+  font-family: cursive;
+  font-weight: 700;
+  margin-left: 10vw;
+}

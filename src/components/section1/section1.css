@@ -1,0 +1,19 @@
+.firstSection {
+  background-color: grey;
+  background-image: url("./header-bg.jpg");
+  background-size: auto;
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  color: yellow;
+  margin: 0px;
+  padding: 0px;
+}
+
+.message {
+  font-size: 2rem;
+  color: white;
+  max-height: fit-content;
+  margin-top: 15%;
+}
